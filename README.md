@@ -52,6 +52,18 @@ Posisi tulisan menjadi berada disebelah kiri<p>
 
 ## MEMFORMAT TEKS 
 
+- Format Bold Text 
+![gambar19](gmb/form1.png.png)
+![gambar20](gmb/form2.png.png)
+
+- Format Impotant Text
+![gambar21](gmb/form3.png.png)
+![gambar22](gmb/form4.png.png)
+
+- Format Itallic Text
+![gambar23](gmb/form5.png.png)
+![gambar24](gmb/form6.png.png)
+
 
 
 
