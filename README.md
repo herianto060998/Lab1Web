@@ -64,6 +64,22 @@ Posisi tulisan menjadi berada disebelah kiri<p>
 ![gambar23](gmb/form5.png.png)
 ![gambar24](gmb/form6.png.png)
 
+- Format Emphasized Text
+![gambar25](gmb/form7.png.png)
+![gambar26](gmb/form8.png.png)
+
+- Format Marked Text 
+![gambar27](gmb/form9.png.png)
+![gambar28](gmb/form10.png.png)
+
+- Format Smaleer Text
+![gambar29](gmb/form11.png.png)
+![gambar30](gmb/form12.png.png)
+
+- Format Deleted Text
+![gambar31](gmb/form13.png.png)
+![gambar32](gmb/form14.png.png)
+
 
 
 
