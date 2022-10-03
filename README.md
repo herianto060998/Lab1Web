@@ -16,3 +16,43 @@
 ![gambar4](gmb/prg1-1.png.png)
 
 - Paragraf kedua <p>
+![gambar5](gmb/prg2.png.png)
+![gambar6](gmb/prg2-1.png.png)
+
+- Penambahan Atribut Center <p>
+
+Posisi tulisan menjadi berada di tengah<p>
+![gambar7](gmb/cntr1.png.png)
+![gambar8](gmb/cntr1-1.png.png)
+
+- Penambahan Atribut Right <p>
+
+Posisi tulisan menjadi berada disebelah kanan<p>
+![gambar9](gmb/rght1.png.png)
+![gambar10](gmb/rght1-1.png.png)
+
+- Penambahan Atribut Justify<p>
+
+Posisi tulisan menjadi rata kanan - kiri<p>
+![gambar11](gmb/jstf1.png.png)
+![gambar12](gmb/jstf1-1.png.png)
+
+- Penambhan Atribut Left <p>
+
+Posisi tulisan menjadi berada disebelah kiri<p>
+![gambar13](gmb/lft1.png.png)
+![gambar14](gmb/lft1-1.png.png)
+
+## MENAMBAHKAN JUDUL 
+
+![gambar15](gmb/jdl1.png.png)
+![gambar16](gmb/jdl2.png.png)
+![gambar17](gmb/jdl3.png.png)
+![gambar18](gmb/jdl4.png.png)
+
+## MEMFORMAT TEKS 
+
+
+
+
+
