@@ -92,6 +92,16 @@ Posisi tulisan menjadi berada disebelah kiri<p>
 ![gambar37](gmb/form19.png.png)
 ![gambar38](gmb/form20.png.png)
 
+## MENAMBAHKAN LOGO
+
+![gambar39](gmb/log1.png.png)
+![gambar40](gmb/log2.png.png)
+
+## MENAMBAHKAN HYPERLINK 
+
+![gambar41](gmb/link1.png.png)
+![gambar42](gmb/link2.png.png)
+
 
 
 
