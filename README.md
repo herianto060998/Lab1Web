@@ -108,9 +108,9 @@ Posisi tulisan menjadi berada disebelah kiri<p>
 
 ## JAWABAN
 
-- terjadi perubahan jika salah penulisan kode . contoh <a href="#lab1_halaman2.html">Halaman 2</a> disini menggunakan garis bawah sedangkan file yang dibuat tidak menggunakan garis bawah maka halaman 2 tidak bisa dibuka dan terjadi error <p> 
+- terjadi perubahan jika salah penulisan kode . contoh #lab1_halaman2.htmlHalaman 2 disini menggunakan garis bawah sedangkan file yang dibuat tidak menggunakan garis bawah maka halaman 2 tidak bisa dibuka dan terjadi error <p> 
 
-- tag (<p>) dibuat untuk membuat paragraf pada dokumen HTML sedangkan (<br>) digunakan untuk break line atau berpindah ke baris selanjutnya <p>
+- tag (p) dibuat untuk membuat paragraf pada dokumen HTML sedangkan (br) digunakan untuk break line atau berpindah ke baris selanjutnya <p>
 
 - attribut (Tittle) digunakan untuk memberi judul pada sebuah gambar yang disisipkan sedangkan (Alt) digunakan untuk mendekripsikan sebuah gambar yang disisipkan<p>
 
