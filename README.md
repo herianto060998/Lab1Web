@@ -52,33 +52,48 @@ Posisi tulisan menjadi berada disebelah kiri<p>
 
 ## MEMFORMAT TEKS 
 
-- Format Bold Text 
+- Format Bold Text <p>
 ![gambar19](gmb/form1.png.png)
 ![gambar20](gmb/form2.png.png)
 
-- Format Impotant Text
+- Format Impotant Text<p>
 ![gambar21](gmb/form3.png.png)
 ![gambar22](gmb/form4.png.png)
 
-- Format Itallic Text
+- Format Itallic Text<p>
 ![gambar23](gmb/form5.png.png)
 ![gambar24](gmb/form6.png.png)
 
-- Format Emphasized Text
+- Format Emphasized Text<p>
 ![gambar25](gmb/form7.png.png)
 ![gambar26](gmb/form8.png.png)
 
-- Format Marked Text 
+- Format Marked Text <p>
 ![gambar27](gmb/form9.png.png)
 ![gambar28](gmb/form10.png.png)
 
-- Format Smaleer Text
+- Format Smaleer Text<p>
 ![gambar29](gmb/form11.png.png)
 ![gambar30](gmb/form12.png.png)
 
-- Format Deleted Text
+- Format Deleted Text<p>
 ![gambar31](gmb/form13.png.png)
 ![gambar32](gmb/form14.png.png)
+
+- Format Inserted Text<p>
+![gambar33](gmb/form15.png.png)
+![gambar34](gmb/form16.png.png)
+
+- Format Subcript Text<p>
+![gambar35](gmb/form17.png.png)
+![gambar36](gmb/form18.png.png)
+
+- Format Superscript Text<p>
+![gambar37](gmb/form19.png.png)
+![gambar38](gmb/form20.png.png)
+
+
+
 
 
 
