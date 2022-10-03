@@ -102,6 +102,28 @@ Posisi tulisan menjadi berada disebelah kiri<p>
 ![gambar41](gmb/link1.png.png)
 ![gambar42](gmb/link2.png.png)
 
+## PERTAYAAN 
+
+![gambar43](gmb/soal.png.png)
+
+## JAWABAN
+
+- terjadi perubahan jika salah penulisan kode . contoh <a href="#lab1_halaman2.html">Halaman 2</a> disini menggunakan garis bawah sedangkan file yang dibuat tidak menggunakan garis bawah maka halaman 2 tidak bisa dibuka dan terjadi error <p> 
+
+- tag (<p>) dibuat untuk membuat paragraf pada dokumen HTML sedangkan (<br>) digunakan untuk break line atau berpindah ke baris selanjutnya <p>
+
+- attribut (Tittle) digunakan untuk memberi judul pada sebuah gambar yang disisipkan sedangkan (Alt) digunakan untuk mendekripsikan sebuah gambar yang disisipkan<p>
+
+- diisi , agar tinggi dan lebar sebuah gambar mampu proposional di sebuah web yang dibuat dan tidak terjadi hal kurang nyaman dilihat saat web selesai<p>
+
+- pada atribut _blank memuat URL ke dalam konteks meramban baru. Ini biasanya tab, tetapi pengguna dapat mengatur peramban untuk menggunakan jendela baru sebagai gantinya.<p>
+![gambar44](gmb/blk.png.png)
+
+pada atribut _self Masukkan URL ke konteks meramban yang sama dengan yang saat ini. Ini adalah perilaku standar<p>
+
+pada atribut _top Muat URL ke dalam konteks meramasian-tingkat atas _self <p>
+
+pada atribut _parent Masukkan URL ke dalam konteks meramban _parent dari yang saat ini. Jika tidak ada _parent, ini berperilaku dengan cara yang sama seperti _self<p>
 
 
 
